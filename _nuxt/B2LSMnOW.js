@@ -1,0 +1,1 @@
+import{l as r,k as t,f as o,V as s}from"./CFFIu4tr.js";const n={};function c(e,a){return t(),o("th",null,[s(e.$slots,"default")])}const f=r(n,[["render",c]]);export{f as default};
